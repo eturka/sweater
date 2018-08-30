@@ -1,6 +1,7 @@
 *.class
 *.jar
 target
+uploads
 
 *.iml
 .idea
